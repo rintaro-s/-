@@ -1,1 +1,1 @@
-god.csvは変えないでください。geoMap.csvは、ダウンロードしたcsvに置き換えてください。googleトレンドの地域の合致率を表示します。ちなみに三重県は28位です。秋田県が１位です。都会の点数が低いのが謎です。<br>参考：https://trends.google.co.jp/trends/explore?date=today%205-y&geo=JP&q=%E3%83%AD%E3%83%AA&hl=ja
+<h2>なにこれ</h2>googleトレンドから取得したcsvを比較して、グラフ化・合致率を表示するプログラムです。うんちゃらコンプレックスの傾向を調べるために作りました。Rの練習用です。<br><h2>使い方</h2>god.csvは変えないでください。geoMap.csvは、ダウンロードしたcsvに置き換えてください。googleトレンドの地域の合致率を表示します。<h2>ちなみに</h2>三重県は28位です。秋田県が１位です。都会の点数が低いのが謎です。<br>参考：https://trends.google.co.jp/trends/explore?date=today%205-y&geo=JP&q=%E3%83%AD%E3%83%AA&hl=ja
